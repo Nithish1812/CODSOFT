@@ -18,3 +18,9 @@ This repository contains the tasks completed during my Python Programming intern
 2. Clone this repository:
    ```bash
    git clone [https://github.com/Nithish1812/CODSOFT.git](https://github.com/Nithish1812/CODSOFT.git)
+## 🖥️ GUI Version (PyQt5)
+To run the graphical version of the To-Do List:
+
+1. Install the required library:
+   ```bash
+   pip install PyQt5
