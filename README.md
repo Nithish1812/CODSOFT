@@ -24,3 +24,31 @@ To run the graphical version of the To-Do List:
 1. Install the required library:
    ```bash
    pip install PyQt5
+
+
+🧮 Task 2: Calculator (Console & GUI)
+This project features two versions of a calculator: a logic-heavy Console version and a user-friendly Graphical User Interface (GUI) version built with PyQt5.
+
+🛠️ Features
+Basic Arithmetic: Addition, Subtraction, Multiplication, and Division.
+
+Error Handling: Prevents crashes from "Division by Zero" or invalid text input.
+
+GUI Design: A responsive grid layout with a digital display and clear (C) button.
+
+🚀 How to Run
+1. Console Version:
+Run the standard Python script in your terminal:
+
+Bash
+python calculator.py
+2. GUI Version:
+Ensure you have PyQt5 installed, then run:
+
+Bash
+pip install PyQt5
+python calculator-GUI.py
+📂 Files Added
+calculator.py: Logic-focused terminal application.
+
+calculator-GUI.py: Visual application using the PyQt5 framework.
