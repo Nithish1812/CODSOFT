@@ -52,3 +52,62 @@ python calculator-GUI.py
 calculator.py: Logic-focused terminal application.
 
 calculator-GUI.py: Visual application using the PyQt5 framework.
+
+🔐 Task 3: Password Generator
+Description
+A robust security tool designed to generate strong, randomized passwords. This project focuses on character set manipulation and user-defined complexity.
+
+Features
+Custom Length: Users can specify the exact number of characters.
+
+Complexity Toggles: Options to include/exclude Uppercase, Numbers, and Special Characters.
+
+Copy to Clipboard: One-click feature to copy the generated password.
+
+GUI: Built with PyQt5 featuring a sleek dark-mode interface.
+
+How to Run
+Bash
+python password_generator.py
+🎮 Task 4: Rock-Paper-Scissors Game
+Description
+An interactive game that pits the user against the computer. This task demonstrates conditional logic, randomization, and real-time state management.
+
+Features
+User vs Computer: Randomized computer moves using Python's random module.
+
+Score Tracking: Real-time scoreboard for both the player and the computer.
+
+Visual Feedback: Instant "Win/Loss/Tie" notifications within the GUI.
+
+Play Again: Seamless reset logic to keep the game going.
+
+How to Run
+Bash
+python rps_game.py
+📖 Task 5: Contact Book
+Description
+A professional-grade Contact Management System. This project is a mini-database application focusing on Data CRUD (Create, Read, Update, Delete) operations.
+
+Features
+Contact Storage: Save Name, Phone Number, Email, and Address.
+
+Search Functionality: Quickly find contacts by name or phone number.
+
+Update/Delete: Easily modify existing records or remove them.
+
+Data Persistence: Contacts stay saved even after closing the application.
+
+Professional UI: A clean, table-based view built with PyQt5.
+
+How to Run
+Bash
+python contact_book.py
+🛠️ Technologies Used (Common for all tasks)
+Language: Python 3.x
+
+GUI Library: PyQt5
+
+Logic: Random, Sys, Math modules
+
+Theme: Nithish-Suite Orange/Dark Edition
